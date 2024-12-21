@@ -21,7 +21,7 @@ The app uses Riverpod for state management, providing a declarative and efficien
 # Local Data Persistence with SQFLite:
 The app leverages SQFLite to store tasks in a local SQLite database, offering persistent storage for all tasks. This allows users to access, update, and delete tasks even when offline. The data is saved securely and remains available after the app is closed and reopened.
 
-![WhatsApp Image 2024-12-21 at 15 58 43_a2f038ec](https://github.com/user-attachments/assets/5b0cc3c6-9dea-416b-986c-65827930fec4
+
 
 
 
